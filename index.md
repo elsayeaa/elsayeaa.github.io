@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Summer 2020 DREU Project Site
+title: Summer 2021 DREU Project Site
 ---
 
 * TOC
@@ -11,11 +11,11 @@ Hello everyone! I am Ahmed Elsayed. I am an international student from Egypt. I 
 ## About My Mentor
 I am working with Prof. Sanmi Koyejo. Prof. Koyejo is an Assistant Professor at Department of Computer Science at the University of Illinois at Urbana-Champaign. His main research interests lies in developing the principles and practice of trustworthy in machine learning. You can find more about Prof. Sanmi's research area and interets through this [link](https://sanmi.cs.illinois.edu/bio.html) 
 ## About My Project
-### Reseach Project Description: 
+### Reseach Project Description 
 
-### Goals: 
+### Goals
 
-### Progress: 
+### Progress
 You can follow my blog posts at the end of this page to learn more about my weekly little accomplishments and frustrations. 
 
 
