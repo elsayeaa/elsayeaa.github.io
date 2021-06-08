@@ -21,6 +21,7 @@ Most machine learning algorithms implicitly assume that the data distribution av
 2. develop an algorithm to identify conditions when a model uses anticausal information transfers as well as or better than strictly using causal information, and 
 3. empirically compare this method to causal transfer and other zero-shot transfer algorithms on settings with known/partially known causal graphs and unknown causal graphs.
 
+
 ### Progress
 You can follow my blog posts at the end of this page to learn more about my weekly little accomplishments and frustrations. 
 
