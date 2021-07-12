@@ -9,7 +9,8 @@ title: Summer 2021 DREU Project Site
 ## About Me
 Hello everyone! I am Ahmed Elsayed. I am an international student from Egypt. I am a rising junior at Whitman College. My majors are Computer Science and Mathematics in addition to a Creative Writing minor. I plan to graduate by May 2023. After graduation, I plan to continue my studies at a graduate school program. I have not yet decided on a research area: I am still enjoying the pursuit of exploration. However, I know that I want to channel my education into accessibility and fairness in the tech world. In our current times, I believe that Technology immensly contributes to the issues of equity, accessibility, and equality, and I am confident that my research interests will be around this field.  
 ## About My Mentor
-I am working with Prof. Sanmi Koyejo. Prof. Koyejo is an Assistant Professor at Department of Computer Science at the University of Illinois at Urbana-Champaign. His main research interests lies in developing the principles and practice of trustworthy in machine learning. You can find more about Prof. Sanmi's research area and interets through this [link](https://sanmi.cs.illinois.edu/bio.html) 
+I am working with Prof. Sanmi Koyejo.
+Prof. Koyejo is an Assistant Professor at Department of Computer Science at the University of Illinois at Urbana-Champaign. His main research interests lies in developing the principles and practice of trustworthy in machine learning. You can find more about Prof. Sanmi's research area and interets through this [link](https://sanmi.cs.illinois.edu/bio.html) 
 In addition, I am working with Olawale Salaudeen, a 2nd-year Ph.D. student in the department of computer science at the University of Illinois at Urbana-Champaign. You can find more about Wale through this [link](https://olawalesalaudeen.com/) 
 ## About My Project
 
